@@ -8,4 +8,5 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Payment {
     private String id;
     private String value;
+    private String currency;
 }

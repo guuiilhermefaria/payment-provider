@@ -8,4 +8,5 @@ import lombok.NoArgsConstructor;
 public class PaymentDTO {
     private String id;
     private String value;
+    private String currency;
 }
